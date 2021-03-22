@@ -24,7 +24,7 @@ func makeReadme(filename string) error {
     // fmt.Println(text)
 
     rand.Seed(time.Now().UnixNano())
-    fact := rand.Intn(len(content))
+    //fact := rand.Intn(len(content))
     date := time.Now().Format("2 Jan 2006")
 
     // Whisk together static and dynamic content until stiff peaks form
