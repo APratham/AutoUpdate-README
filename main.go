@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "io/ioutil"
+    "io"
     "log"
     "math/rand"
     "os"
