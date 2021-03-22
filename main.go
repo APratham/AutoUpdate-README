@@ -14,7 +14,7 @@ func makeReadme(filename string) error {
 
     // Read entire file content, giving us little control but
     // making it very simple. No need to close the file.
-  //  content, err := ioutil.ReadFile("facts.txt")
+    content, err := ioutil.ReadFile("facts.txt")
     if err != nil {
         log.Fatal(err)
     }
@@ -24,12 +24,12 @@ func makeReadme(filename string) error {
     // fmt.Println(text)
 
     rand.Seed(time.Now().UnixNano())
-    //fact := rand.Intn(len(content))
+    fact := rand.Intn(len(content))
     date := time.Now().Format("2 Jan 2006")
 
     // Whisk together static and dynamic content until stiff peaks form
     hello := "### Hello! I’m Victoria Drake. 👋\n\nI’m a software developer at 💜 and Director of Engineering at work. I build my skill stack in public and share open source knowledge through the words I’ve written on [victoria.dev](https://victoria.dev). I hope to encourage people to learn openly and fearlessly, with wild child-like abandon."
-  	// quote := fact[content]
+  	quote := "⚡ Fun fact: " + fact[content]
   	updated := "<sub>Last updated by magic on " + date + ".</sub>"
   	data := fmt.Sprintf("%s\n\n\n\n%s\n", hello, updated)
 
