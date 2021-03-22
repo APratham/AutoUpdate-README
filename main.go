@@ -7,8 +7,6 @@ import (
     "math/rand"
     "os"
     "time"
-
-    "github.com/mmcdole/gofeed"
 )
 
 func makeReadme(filename string) error {
