@@ -14,7 +14,7 @@ func makeReadme(filename string) error {
 
     // Read entire file content, giving us little control but
     // making it very simple. No need to close the file.
-    content, err := ioutil.ReadFile("facts.txt")
+  //  content, err := ioutil.ReadFile("facts.txt")
     if err != nil {
         log.Fatal(err)
     }
