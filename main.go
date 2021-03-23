@@ -16,7 +16,6 @@ func makeReadme(filename string) error {
     rand.Seed(time.Now().UnixNano())
     randsource := rand.NewSource(time.Now().UnixNano())
 
-    fact := rand.Intn(len(content))
     date := time.Now().Format("2 Jan 2006")
 
 
