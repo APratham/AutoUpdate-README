@@ -57,6 +57,6 @@ func makeReadme(filename string) error {
 
 func main() {
 
-	makeReadme("../README.md")
+	makeReadme("./README.md")
 
 }
