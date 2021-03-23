@@ -25,11 +25,13 @@ func makeReadme(filename string) error {
 
     rand.Seed(time.Now().UnixNano())
     fact := rand.Intn(len(content))
+    lines := strings.Split(string(content), "\n")
+    
     date := time.Now().Format("2 Jan 2006")
 
     // Whisk together static and dynamic content until stiff peaks form
     hello := "### Hello! I’m Victoria Drake. 👋\n\nI’m a software developer at 💜 and Director of Engineering at work. I build my skill stack in public and share open source knowledge through the words I’ve written on [victoria.dev](https://victoria.dev). I hope to encourage people to learn openly and fearlessly, with wild child-like abandon."
-  	quote := "⚡ Fun fact: " + fact[content]
+  	quote := "⚡ Fun fact: " + lines[fact]
   	updated := "<sub>Last updated by magic on " + date + ".</sub>"
   	data := fmt.Sprintf("%s\n\n\n\n%s\n", hello, updated)
 
