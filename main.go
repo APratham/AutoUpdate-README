@@ -36,7 +36,7 @@ func makeReadme(filename string) error {
     hello := "### Hello! I’m Victoria Drake. 👋\n\nI’m a software developer at 💜 and Director of Engineering at work. I build my skill stack in public and share open source knowledge through the words I’ve written on [victoria.dev](https://victoria.dev). I hope to encourage people to learn openly and fearlessly, with wild child-like abandon."
   	quote := "⚡ Fun fact: " + lines[fact]
   	updated := "<sub>Last updated by magic on " + date + ".</sub>"
-  	data := fmt.Sprintf("%s\n\n\n\n%s\n", hello, updated)
+  	data := fmt.Sprintf("%s\n\n%s\n\n%s\n", hello, quote, updated)
 
 	  // Prepare file with a light coating of os
 	  file, err := os.Create(filename)
