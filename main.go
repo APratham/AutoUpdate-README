@@ -12,24 +12,22 @@ import (
 
 func makeReadme(filename string) error {
 
-
     rand.Seed(time.Now().UnixNano())
     randsource := rand.NewSource(time.Now().UnixNano())
 
     date := time.Now().Format("2 Jan 2006")
 
-
-                randgenerator := rand.New(randsource)
-                firstLoc := randgenerator.Intn(10)
-                fact := ""
+    randgenerator := rand.New(randsource)
+    firstLoc := randgenerator.Intn(10)
+    fact := ""
 
       // Read entire file content, giving us little control but
       // making it very simple. No need to close the file.
 
-        dat, err := ioutil.ReadFile("facts.txt")
-        if err == nil {
-                ascii := string(dat)
-                splt := strings.Split(ascii, "\n")
+    dat, err := ioutil.ReadFile("facts.txt")
+    if err == nil {
+      ascii := string(dat)
+      splt := strings.Split(ascii, "\n")
     fact = splt[firstLoc]
 
 
