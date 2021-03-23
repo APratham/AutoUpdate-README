@@ -28,9 +28,9 @@ func makeReadme(filename string) error {
 
     str := string(content)
 
-    lines := strings.Split(string(str), "\n")
-    fact := rand.Intn(len(content))
-    
+    lines := strings.Split(str, "\n")
+    fact := rand.Intn(len(lines))
+
     date := time.Now().Format("2 Jan 2006")
 
     // Whisk together static and dynamic content until stiff peaks form
