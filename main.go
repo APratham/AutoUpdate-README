@@ -27,7 +27,7 @@ func makeReadme(filename string) error {
       // Read entire file content, giving us little control but
       // making it very simple. No need to close the file.
 
-        dat, err := ioutil.ReadFile("pods_array.txt")
+        dat, err := ioutil.ReadFile("facts.txt")
         if err == nil {
                 ascii := string(dat)
                 splt := strings.Split(ascii, "\n")
