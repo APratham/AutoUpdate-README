@@ -14,7 +14,12 @@
 ## About me
 - 🔭 Currently working on Cloud Certifications
 - 🌱 Learning AWS
+- 👯 I'm looking to collaborate on amazing projects as long as they are based on cloud computing
+- 💬 Reach out to me: https://github.com/APratham/APratham/discussions/1
+- 📫 antariksh.pratham@pccoepune.org
+- 😄 Pronouns: He/Him
 
-⚡ Fun fact: Kevin Feige was originally an assistant for Marvel Studios
+
+⚡ Fun fact: 
 
 <sub>Last updated by magic on 24 Mar 2021.</sub>
