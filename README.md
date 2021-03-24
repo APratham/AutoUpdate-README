@@ -21,11 +21,9 @@
 
 
 
-- ⚡ Fun fact: 
-
-The Punisher once killed every Marvel superhero and villain including himself
+- ⚡ Fun fact: The military didn't appear in 'The Avengers' because The Pentagon didn't like SHIELD
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
-## I'm currently jamming to\n\n<a href="https://spotify-now-playing-iota-umber.vercel.app/now-playing?open"><img src="https://spotify-now-playing-iota-umber.vercel.app/now-playing" width="256" height="64" alt="Now Playing"></a>
+## I'm currently jamming to" + "<a href="https://spotify-now-playing-iota-umber.vercel.app/now-playing?open"><img src="https://spotify-now-playing-iota-umber.vercel.app/now-playing" width="256" height="64" alt="Now Playing"></a>
 
 <sub>Last updated by magic on 24 Mar 2021.</sub>
