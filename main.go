@@ -35,10 +35,23 @@ func makeReadme(filename string) error {
 
     // Whisk together static and dynamic content until stiff peaks form
     const social = `<a href="https://twitter.com/___apratham___" target="_blank" rel="nofollow"><img align="right" alt="Antariksh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/APratham" target="_blank" rel="nofollow"><img align="right" alt="Antariksh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/___apratham___" target="_blank" rel="nofollow"><img align="right" alt="Antariksh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>`
-  //  hello := "## Hello! I’m Victoria Drake. 👋\n\nI’m a software developer at 💜 and Director of Engineering at work. I build my skill stack in public and share open source knowledge through the words I’ve written on [victoria.dev](https://victoria.dev). I hope to encourage people to learn openly and fearlessly, with wild child-like abandon."
+    const hello := `### Hi there 👋
+
+    ```
+                                 __
+       ____     ____          __/ /_ __        __
+      / _  \   / __ \________/_   _// /_  ____/ /.-..-.
+     / __  /  / ____/ __/ _ / /  /_/ __ \/ _ / .-. /, /
+    /_/ /_/../_/   /_/ /___/_/____/_/ /_/___/_/  // //
+
+    ```
+
+    <!--
+    **APratham/APratham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    -->`
   	quote := "⚡ Fun fact: " + lines[fact]
   	updated := "<sub>Last updated by magic on " + date + ".</sub>"
-  	data := fmt.Sprintf("%s\n\n%s\n\n%s\n", social, quote, updated)
+  	data := fmt.Sprintf("%s%s\n\n%s\n\n%s\n", social, hello, quote, updated)
 
 	  // Prepare file with a light coating of os
 	  file, err := os.Create(filename)
