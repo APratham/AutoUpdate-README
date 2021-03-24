@@ -21,9 +21,13 @@
 
 
 
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Agent Coulson was not supposed to reappear past the first Iron Man film
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
-## I'm currently jamming to <div><a href="https://spotify-now-playing-iota-umber.vercel.app/now-playing?open"><img src="https://spotify-now-playing-iota-umber.vercel.app/now-playing" width="256" height="64" alt="Now Playing"></a></div>
+## I'm currently jamming to
 
+\n\n<a href="https://spotify-now-playing-iota-umber.vercel.app/now-playing?open"><img src="https://spotify-now-playing-iota-umber.vercel.app/now-playing" width="256" height="64" alt="Now Playing"></a>
+
+%!s(MISSING)
 <sub>Last updated by magic on 24 Mar 2021.</sub>
+
