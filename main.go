@@ -49,9 +49,10 @@ func makeReadme(filename string) error {
 
     points := "## About me\n- 🔭 Currently working on Cloud Certifications\n- 🌱 Learning AWS\n- 👯 I'm looking to collaborate on amazing projects as long as they are based on cloud computing\n- 💬 Reach out to me: https://github.com/APratham/APratham/discussions/1\n- 📫 antariksh.pratham@pccoepune.org\n- 😄 Pronouns: He/Him\n"
 
-  	quote := "⚡ Fun fact: " + lines[fact]
+  	quote := "\n⚡ Fun fact: " + lines[fact] + "\n🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate"
+    spotify := `## I'm currently jamming to<a href="https://spotify-now-playing-iota-umber.vercel.app/now-playing?open"><img src="https://spotify-now-playing-iota-umber.vercel.app/now-playing" width="256" height="64" alt="Now Playing"></a>"`
   	updated := "<sub>Last updated by magic on " + date + ".</sub>"
-  	data := fmt.Sprintf("%s\n\n%s\n%s\n%s\n\n%s\n\n%s\n", social, title, hello, points, quote, updated)
+  	data := fmt.Sprintf("%s\n\n%s\n%s\n%s\n\n%s\n\n%s\n\n%s\n", social, title, hello, points, quote, spotify, updated)
 
 	  // Prepare file with a light coating of os
 	  file, err := os.Create(filename)
