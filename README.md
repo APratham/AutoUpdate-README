@@ -21,19 +21,17 @@
 
 
 
-- ⚡ Fun fact: There is a frog with the same powers as Thor
+- ⚡ Fun fact: The Punisher once killed every Marvel superhero and villain including himself
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
 
 <a href="https://spotify-now-playing-iota-umber.vercel.app/now-playing?open"><img src="https://spotify-now-playing-iota-umber.vercel.app/now-playing" width="256" height="64" alt="Now Playing"></a>
-<sub>Last updated by magic on 24 Mar 2021.</sub>
-
 ## Languages and Tools
 
 <p align="center">
     <div align="center">
-        <code><img height="40" src="./images/c.svg"></code>
+        <code><img height="40" src="$REPO_PATH/images/c.svg"></code>
         <code><img height="40" src="./images/cplusplus.svg"></code>
         <code><img height="40" src="./images/html5.svg"></code>
         <code><img height="40" src="./images/css3.svg"></code>
@@ -54,3 +52,11 @@
 ## Some of my top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APratham&&exclude_repo=now-playing-profile,natemoo-re&langs_count=3&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+## Cloud Platforms
+
+![Google Cloud](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg)
+
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
+
+<sub>Last updated by magic on 24 Mar 2021.</sub>
