@@ -20,6 +20,10 @@
 - 😄 Pronouns: He/Him
 
 
-⚡ Fun fact: 
+
+⚡ Fun fact: Michael Jackson once tried to buy Marvel Comics 
+🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
+
+## I'm currently jamming to<a href="https://spotify-now-playing-iota-umber.vercel.app/now-playing?open"><img src="https://spotify-now-playing-iota-umber.vercel.app/now-playing" width="256" height="64" alt="Now Playing"></a>"
 
 <sub>Last updated by magic on 24 Mar 2021.</sub>
