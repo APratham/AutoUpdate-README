@@ -35,7 +35,8 @@ func makeReadme(filename string) error {
 
     // Whisk together static and dynamic content until stiff peaks form
     const social = `<a href="https://twitter.com/___apratham___" target="_blank" rel="nofollow"><img align="right" alt="Antariksh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/APratham" target="_blank" rel="nofollow"><img align="right" alt="Antariksh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/___apratham___" target="_blank" rel="nofollow"><img align="right" alt="Antariksh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>`
-    const hello = `### Hi there 👋
+    title := "### Hi there 👋"
+    const hello = `
 
 
                                  __
@@ -48,7 +49,7 @@ func makeReadme(filename string) error {
 
   	quote := "⚡ Fun fact: " + lines[fact]
   	updated := "<sub>Last updated by magic on " + date + ".</sub>"
-  	data := fmt.Sprintf("%s%s\n\n%s\n\n%s\n", social, hello, quote, updated)
+  	data := fmt.Sprintf("%s%s%s\n\n%s\n\n%s\n", social, title, hello, quote, updated)
 
 	  // Prepare file with a light coating of os
 	  file, err := os.Create(filename)
