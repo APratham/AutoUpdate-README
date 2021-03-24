@@ -11,9 +11,18 @@
     /_/ /_/../_/   /_/ /___/_/____/_/ /_/___/_/  // //
 
     
-## About me- 🔭 Currently working on Cloud Certifications- 🌱 Learning AWS- 👯 I'm looking to collaborate on amazing projects as long as they are based on cloud computing- 💬 Reach out to me: https://github.com/APratham/APratham/discussions/1- 📫 antariksh.pratham@pccoepune.org- 😄 Pronouns: He/Him
+## About me
+- 🔭 Currently working on Cloud Certifications
+- 🌱 Learning AWS
+- 👯 I'm looking to collaborate on amazing projects as long as they are based on cloud computing
+- 💬 Reach out to me: https://github.com/APratham/APratham/discussions/1
+- 📫 antariksh.pratham@pccoepune.org
+- 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: Marvel and DC Comics once joined hands to create some exciting characters- 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
+
+
+- ⚡ Fun fact: Marvel and DC Comics once joined hands to create some exciting characters
+- 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
 
