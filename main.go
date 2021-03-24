@@ -35,7 +35,7 @@ func makeReadme(filename string) error {
 
     // Whisk together static and dynamic content until stiff peaks form
     const social = `<a href="https://twitter.com/___apratham___" target="_blank" rel="nofollow"><img align="right" alt="Antariksh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/APratham" target="_blank" rel="nofollow"><img align="right" alt="Antariksh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/___apratham___" target="_blank" rel="nofollow"><img align="right" alt="Antariksh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>`
-    title := "### Hello! I’m Victoria Drake. 👋\n\nI’m a software developer at 💜 and Director of Engineering at work. "
+    title := "### Hi there 👋"
     const hello = `
 
 
@@ -47,9 +47,17 @@ func makeReadme(filename string) error {
 
     `
 
+    points = `## About me
+    - 🔭 Currently working on Cloud Certifications
+    - 🌱 Learning AWS
+    - 👯 I'm looking to collaborate on amazing projects as long as they are based on cloud computing
+    - 💬 Reach out to me: https://github.com/APratham/APratham/discussions/1
+    - 📫 antariksh.pratham@pccoepune.org
+    - 😄 Pronouns: He/Him`
+
   	quote := "⚡ Fun fact: " + lines[fact]
   	updated := "<sub>Last updated by magic on " + date + ".</sub>"
-  	data := fmt.Sprintf("%s\n\n%s%s\n\n%s\n\n%s\n", social, title, hello, quote, updated)
+  	data := fmt.Sprintf("%s\n\n%s\n%s\n%s\n\n%s\n\n%s\n", social, title, hello, points, quote, updated)
 
 	  // Prepare file with a light coating of os
 	  file, err := os.Create(filename)
