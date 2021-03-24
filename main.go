@@ -34,7 +34,30 @@ func makeReadme(filename string) error {
     date := time.Now().Format("2 Jan 2006")
 
     // Whisk together static and dynamic content until stiff peaks form
-    hello := "### Hello! I’m Victoria Drake. 👋\n\nI’m a software developer at 💜 and Director of Engineering at work. I build my skill stack in public and share open source knowledge through the words I’ve written on [victoria.dev](https://victoria.dev). I hope to encourage people to learn openly and fearlessly, with wild child-like abandon."
+    hello := "<a href="https://twitter.com/___apratham___" target="_blank" rel="nofollow"><img align="right" alt="Antariksh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/APratham" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/___apratham___" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+
+    ### Hi there 👋
+
+    ```
+                                 __
+       ____     ____          __/ /_ __        __
+      / _  \   / __ \________/_   _// /_  ____/ /.-..-.
+     / __  /  / ____/ __/ _ / /  /_/ __ \/ _ / .-. /, /
+    /_/ /_/../_/   /_/ /___/_/____/_/ /_/___/_/  // //
+
+    ```
+
+    <!--
+    **APratham/APratham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    -->
+
+    ## About me
+    - 🔭 Currently working on Cloud Certifications
+    - 🌱 Learning AWS
+    - 👯 I'm looking to collaborate on amazing projects as long as they are based on cloud computing
+    - 💬 Reach out to me: https://github.com/APratham/APratham/discussions/1
+    - 📫 antariksh.pratham@pccoepune.org
+    - 😄 Pronouns: He/Him"
   	quote := "⚡ Fun fact: " + lines[fact]
   	updated := "<sub>Last updated by magic on " + date + ".</sub>"
   	data := fmt.Sprintf("%s\n\n%s\n\n%s\n", hello, quote, updated)
