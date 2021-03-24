@@ -21,6 +21,10 @@ jobs:
       - name: Shake & bake README
         run: |
           go run main.go
+        with:
+          repository: ${{ secrets.GO_REPOSITORY }}
+          token: ${{ secrets.REPOSITORY_TOKEN }}
+          fetch-depth: 1
       - name: 🚀 Deploy
         run: |
           git config user.name "${GITHUB_ACTOR}"
