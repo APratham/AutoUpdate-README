@@ -12,13 +12,8 @@
 
     
 ## About me
-    - 🔭 Currently working on Cloud Certifications
-    - 🌱 Learning AWS
-    - 👯 I'm looking to collaborate on amazing projects as long as they are based on cloud computing
-    - 💬 Reach out to me: https://github.com/APratham/APratham/discussions/1
-    - 📫 antariksh.pratham@pccoepune.org
-    - 😄 Pronouns: He/Him
+&nbsp&nbsp- 🔭 Currently working on Cloud Certifications
 
-⚡ Fun fact: Agent Coulson was not supposed to reappear past the first Iron Man film
+⚡ Fun fact: Spider-Man was a part of Civil War long before he was available to Marvel Studios
 
 <sub>Last updated by magic on 24 Mar 2021.</sub>
