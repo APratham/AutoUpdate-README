@@ -49,7 +49,7 @@ func makeReadme(filename string) error {
 
   	quote := "⚡ Fun fact: " + lines[fact]
   	updated := "<sub>Last updated by magic on " + date + ".</sub>"
-  	data := fmt.Sprintf("%s%s%s\n\n%s\n\n%s\n", social, title, hello, quote, updated)
+  	data := fmt.Sprintf("%s\n\n%s%s\n\n%s\n\n%s\n", social, title, hello, quote, updated)
 
 	  // Prepare file with a light coating of os
 	  file, err := os.Create(filename)
