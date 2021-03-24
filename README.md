@@ -1,8 +1,7 @@
 <a href="https://twitter.com/___apratham___" target="_blank" rel="nofollow"><img align="right" alt="Antariksh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/APratham" target="_blank" rel="nofollow"><img align="right" alt="Antariksh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/___apratham___" target="_blank" rel="nofollow"><img align="right" alt="Antariksh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-### Hello! I’m Victoria Drake. 👋
+### Hi there 👋
 
-I’m a software developer at 💜 and Director of Engineering at work. 
 
 
                                  __
@@ -12,7 +11,14 @@ I’m a software developer at 💜 and Director of Engineering at work.
     /_/ /_/../_/   /_/ /___/_/____/_/ /_/___/_/  // //
 
     
+## About me
+    - 🔭 Currently working on Cloud Certifications
+    - 🌱 Learning AWS
+    - 👯 I'm looking to collaborate on amazing projects as long as they are based on cloud computing
+    - 💬 Reach out to me: https://github.com/APratham/APratham/discussions/1
+    - 📫 antariksh.pratham@pccoepune.org
+    - 😄 Pronouns: He/Him
 
-⚡ Fun fact: Marvel and DC Comics once joined hands to create some exciting characters
+⚡ Fun fact: Agent Coulson was not supposed to reappear past the first Iron Man film
 
 <sub>Last updated by magic on 24 Mar 2021.</sub>
