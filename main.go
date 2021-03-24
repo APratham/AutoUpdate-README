@@ -44,7 +44,7 @@ func makeReadme(filename string) error {
      / __  /  / ____/ __/ _ / /  /_/ __ \/ _ / .-. /, /
     /_/ /_/../_/   /_/ /___/_/____/_/ /_/___/_/  // //
 
-    </code>`
+    </code>
   	quote := "⚡ Fun fact: " + lines[fact]
   	updated := "<sub>Last updated by magic on " + date + ".</sub>"
   	data := fmt.Sprintf("%s%s\n\n%s\n\n%s\n", social, hello, quote, updated)
