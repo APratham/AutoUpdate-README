@@ -47,9 +47,9 @@ func makeReadme(filename string) error {
 
     `
 
-    points := "## About me\n&nbsp&nbsp- 🔭 Currently working on Cloud Certifications"
+    points := "## About me\n- 🔭 Currently working on Cloud Certifications\n- 🌱 Learning AWS"
 
-/**    - 🌱 Learning AWS
+/**
     - 👯 I'm looking to collaborate on amazing projects as long as they are based on cloud computing
     - 💬 Reach out to me: https://github.com/APratham/APratham/discussions/1
     - 📫 antariksh.pratham@pccoepune.org
