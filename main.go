@@ -54,7 +54,9 @@ func makeReadme(filename string) error {
     spotify2 := `\n\n<a href="https://spotify-now-playing-iota-umber.vercel.app/now-playing?open"><img src="https://spotify-now-playing-iota-umber.vercel.app/now-playing" width="256" height="64" alt="Now Playing"></a>`
   	updated := "<sub>Last updated by magic on " + date + ".</sub>"
   	data1 := fmt.Sprintf("%s\n\n%s\n%s\n%s\n\n%s\n\n%s\n\n%s\n\n%s\n", social, title, hello, points, quote, spotify1, spotify2)
-    data2 := fmt.Sprint("%s\n\n", updated)
+    data2 := fmt.Sprintf("%s\n\n", updated)
+
+    data := data1 + data2
 
 	  // Prepare file with a light coating of os
 	  file, err := os.Create(filename)
@@ -64,7 +66,7 @@ func makeReadme(filename string) error {
 	   defer file.Close()
 
 	   // Bake at n bytes per second until golden brown
-	   _, err = io.WriteString(file, data1, data2)
+	   _, err = io.WriteString(file, data)
 	   if err != nil {
 		     return err
 	   }
