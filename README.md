@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: The Punisher once killed every Marvel superhero and villain including himself
+- ⚡ Fun fact: Agent Coulson was not supposed to reappear past the first Iron Man film
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -31,7 +31,7 @@
 
 <p align="center">
     <div align="center">
-        <code><img height="40" src="$REPO_PATH/images/c.svg"></code>
+        <code><img height="40" src=".images/c.svg"></code>
         <code><img height="40" src="./images/cplusplus.svg"></code>
         <code><img height="40" src="./images/html5.svg"></code>
         <code><img height="40" src="./images/css3.svg"></code>
@@ -57,6 +57,6 @@
 
 ![Google Cloud](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg)
 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
 <sub>Last updated by magic on 24 Mar 2021.</sub>
