@@ -47,13 +47,13 @@ func makeReadme(filename string) error {
 
     `
 
-    points := "## About me\n- 🔭 Currently working on Cloud Certifications\n- 🌱 Learning AWS"
+    points := "## About me\n- 🔭 Currently working on Cloud Certifications\n- 🌱 Learning AWS\n
+    - 👯 I'm looking to collaborate on amazing projects as long as they are based on cloud computing\n
+    - 💬 Reach out to me: https://github.com/APratham/APratham/discussions/1\n
+    - 📫 antariksh.pratham@pccoepune.org\n- 😄 Pronouns: He/Him\n"
 
 /**
-    - 👯 I'm looking to collaborate on amazing projects as long as they are based on cloud computing
-    - 💬 Reach out to me: https://github.com/APratham/APratham/discussions/1
-    - 📫 antariksh.pratham@pccoepune.org
-    - 😄 Pronouns: He/Him **/
+ **/
 
   	quote := "⚡ Fun fact: " + lines[fact]
   	updated := "<sub>Last updated by magic on " + date + ".</sub>"
