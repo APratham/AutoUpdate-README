@@ -12,8 +12,9 @@
 
     
 ## About me
-&nbsp&nbsp- 🔭 Currently working on Cloud Certifications
+- 🔭 Currently working on Cloud Certifications
+- 🌱 Learning AWS
 
-⚡ Fun fact: Spider-Man was a part of Civil War long before he was available to Marvel Studios
+⚡ Fun fact: Kevin Feige was originally an assistant for Marvel Studios
 
 <sub>Last updated by magic on 24 Mar 2021.</sub>
