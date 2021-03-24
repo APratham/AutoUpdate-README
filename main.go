@@ -52,9 +52,31 @@ func makeReadme(filename string) error {
   	quote := "\n- ⚡ Fun fact: " + lines[fact] + "\n- 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate"
     spotify1 := "## I'm currently jamming to"
     spotify2 := `<a href="https://spotify-now-playing-iota-umber.vercel.app/now-playing?open"><img src="https://spotify-now-playing-iota-umber.vercel.app/now-playing" width="256" height="64" alt="Now Playing"></a>`
+    lan1 := "## Languages and Tools"
+    lan2 := `<p align="center">
+    <div align="center">
+        <code><img height="40" src="./images/c.svg"></code>
+        <code><img height="40" src="./images/cplusplus.svg"></code>
+        <code><img height="40" src="./images/html5.svg"></code>
+        <code><img height="40" src="./images/css3.svg"></code>
+        <code><img height="40" src="./images/javascript.svg"></code>
+        <code><img height="40" src="./images/python.svg"></code>
+        <code><img height="40" src="./images/jupyter.svg"></code>
+        <code><img height="40" src="./images/docker.svg"></code>
+        <code><img height="40" src="./images/kubernetes.svg"></code>
+        <code><img height="40" src="./images/heroku.svg"></code>
+        <code><img height="40" src="./images/firebase.svg"></code>
+        <code><img height="40" src="./images/nodejs.svg"></code>
+        <code><img height="40" src="./images/npm.svg"></code>
+        <code><img height="40" src="./images/nginx.svg"></code>
+        <code><img height="40" src="./images/yarn.svg"></code>
+      </div>
+    </p>`
+    toplan1 := "## Some of my top languages"
+    toplan2 := `[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APratham&&exclude_repo=now-playing-profile,natemoo-re&langs_count=3&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)`
   	updated := "<sub>Last updated by magic on " + date + ".</sub>"
-  	data1 := fmt.Sprintf("%s\n\n%s\n%s\n%s\n\n%s\n\n%s\n\n%s\n\n%s\n", social, title, hello, points, quote, spotify1, spotify2)
-    data2 := fmt.Sprintf("%s\n\n", updated)
+  	data1 := fmt.Sprintf("%s\n\n%s\n%s\n%s\n\n%s\n\n%s\n\n%s\n", social, title, hello, points, quote, spotify1, spotify2)
+    data2 := fmt.Sprintf("%s\n\n%s\n\n%s\n\n%s\n\n%s\n", updated, lan1, lan2, toplan1, toplan2)
 
     data := data1 + data2
 
