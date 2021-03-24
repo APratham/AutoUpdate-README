@@ -9,6 +9,6 @@
 
     
 
-⚡ Fun fact: Spider-Man was a part of Civil War long before he was available to Marvel Studios
+⚡ Fun fact: There is a frog with the same powers as Thor
 
 <sub>Last updated by magic on 24 Mar 2021.</sub>
