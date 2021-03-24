@@ -11,22 +11,13 @@
     /_/ /_/../_/   /_/ /___/_/____/_/ /_/___/_/  // //
 
     
-## About me
-- 🔭 Currently working on Cloud Certifications
-- 🌱 Learning AWS
-- 👯 I'm looking to collaborate on amazing projects as long as they are based on cloud computing
-- 💬 Reach out to me: https://github.com/APratham/APratham/discussions/1
-- 📫 antariksh.pratham@pccoepune.org
-- 😄 Pronouns: He/Him
+## About me- 🔭 Currently working on Cloud Certifications- 🌱 Learning AWS- 👯 I'm looking to collaborate on amazing projects as long as they are based on cloud computing- 💬 Reach out to me: https://github.com/APratham/APratham/discussions/1- 📫 antariksh.pratham@pccoepune.org- 😄 Pronouns: He/Him
 
-
-
-- ⚡ Fun fact: Agent Coulson was not supposed to reappear past the first Iron Man film
-- 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
+- ⚡ Fun fact: Marvel and DC Comics once joined hands to create some exciting characters- 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
 
-\n\n<a href="https://spotify-now-playing-iota-umber.vercel.app/now-playing?open"><img src="https://spotify-now-playing-iota-umber.vercel.app/now-playing" width="256" height="64" alt="Now Playing"></a>
+<a href="https://spotify-now-playing-iota-umber.vercel.app/now-playing?open"><img src="https://spotify-now-playing-iota-umber.vercel.app/now-playing" width="256" height="64" alt="Now Playing"></a>
 
 %!s(MISSING)
 <sub>Last updated by magic on 24 Mar 2021.</sub>
