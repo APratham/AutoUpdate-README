@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 8 Nov 2021.</sub>
+<sub>Last updated by magic on 9 Nov 2021.</sub>
