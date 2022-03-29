@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Michael Jackson once tried to buy Marvel Comics 
+- ⚡ Fun fact: The military didn't appear in 'The Avengers' because The Pentagon didn't like SHIELD
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 28 Mar 2022.</sub>
+<sub>Last updated by magic on 29 Mar 2022.</sub>
