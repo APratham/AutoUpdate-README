@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Michael Jackson once tried to buy Marvel Comics 
+- ⚡ Fun fact: Marvel and DC Comics once joined hands to create some exciting characters
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 18 Feb 2023.</sub>
+<sub>Last updated by magic on 19 Feb 2023.</sub>
