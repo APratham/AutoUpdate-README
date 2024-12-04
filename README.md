@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Spider-Man was a part of Civil War long before he was available to Marvel Studios
+- ⚡ Fun fact: Michael Jackson once tried to buy Marvel Comics 
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 3 Dec 2024.</sub>
+<sub>Last updated by magic on 4 Dec 2024.</sub>
