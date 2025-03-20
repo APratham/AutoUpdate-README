@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Spider-Man was a part of Civil War long before he was available to Marvel Studios
+- ⚡ Fun fact: Marvel and DC Comics once joined hands to create some exciting characters
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 19 Mar 2025.</sub>
+<sub>Last updated by magic on 20 Mar 2025.</sub>
